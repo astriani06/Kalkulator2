@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator2</string>
+    <string name="hint">Masukan angka</string>
+    <string-array name="pilOperator">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+        <item>Modulus</item>
+    </string-array>
+    <string name="tbHitung">Hitung</string>
+    <string name="psnErrNol">Pembagi tidak boleh angka 0!</string>
+</resources>
